@@ -69,9 +69,9 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
+        <em>{{entry.journal}},</em>
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
+        <em>In {{entry.booktitle}},</em>
       {% endif %}
       {% if entry.year %}
         {{entry.year}}
@@ -88,6 +88,9 @@
     {% endif %}
     {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+    {% endif %}
+    {% if entry.doi %}
+        <a href="https://doi.org/{{ entry.doi }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
     {% endif %}
     {% if entry.html %}
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
