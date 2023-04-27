@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://mia-ps.inrae.fr/en">MIA-Paris-Saclay</a>, Université Paris-Saclay, AgroParisTech, INRAE.
+description: <a href="https://mia-ps.inrae.fr/en">MIA Paris-Saclay</a>, Université Paris-Saclay, AgroParisTech, INRAE.
 
 profile:
   align: right
