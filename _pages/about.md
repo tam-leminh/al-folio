@@ -19,6 +19,8 @@ social: true  # includes social icons at the bottom of the page
 
 I am currently a PhD candidate in applied mathematics at Paris-Saclay University under the supervision of [Stéphane Robin](https://sites.google.com/view/srobin-lpsm/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home).
 
+Update: I have defended my PhD thesis on November 13th, 2023 in Paris-Saclay!
+
 My scientific interests lie in applied probability and statistics for life science, in particular ecological questions. My PhD research is aiming at designing probabilistic and statistical methods based on exchangeable random graph models to analyze ecological networks.
 
 #### Experience
