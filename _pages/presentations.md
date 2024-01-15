@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-#### Recent and incoming Talks
+#### Recent and incoming talks
 
 - Séminaire math, bio et images du LAGA, Villetaneuse, France, November 24, 2023
 - Séminaire Statistique et Génome du LaMME, Évry, France, November 23, 2023
