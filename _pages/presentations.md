@@ -8,7 +8,9 @@ nav: true
 
 #### Recent and incoming Talks
 
-- Séminaire math, bio et images du LAGA, Villetaneuse, France, November 24, 2023
+- Séminaire Données & Aléatoire, Théorie & Applications du LJK, Grenoble, France, February 8, 2024
+- Séminaire de Statistique et Optimisation de l'IMT, Toulouse, France, February 6, 2024
+- Séminaire Math, Bio et Images du LAGA, Villetaneuse, France, November 24, 2023
 - Séminaire Statistique et Génome du LaMME, Évry, France, November 23, 2023
 - PhD defence, Palaiseau, France, November 13, 2023
 - 54èmes Journées de Statistique de la Société Française de Statistique, Brussels, Belgium, July 3-7, 2023
