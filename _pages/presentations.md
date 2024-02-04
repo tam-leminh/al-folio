@@ -6,7 +6,7 @@ description:
 nav: true
 ---
 
-#### Recent and incoming Talks
+#### Recent and incoming talks
 
 - Séminaire Données & Aléatoire, Théorie & Applications du LJK, Grenoble, France, February 8, 2024
 - Séminaire de Statistique et Optimisation de l'IMT, Toulouse, France, February 6, 2024
