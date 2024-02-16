@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher at Inria Grenoble Rhône-Alpes, working with [Julyan Arbel](https://www.julyanarbel.com/) and [Florence Forbes](https://mistis.inrialpes.fr/~forbes/). In November 2023, I have defended my PhD in applied mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://sites.google.com/view/srobin-lpsm/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home).
+I am currently a postdoctoral researcher at Inria Grenoble Rhône-Alpes, working with [Julyan Arbel](https://www.julyanarbel.com/) and [Florence Forbes](https://mistis.inrialpes.fr/~forbes/). In November 2023, I have defended my PhD in applied mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://scj-robin.github.io/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home).
 
 My scientific interests lie in statistics and applied probability for life science, in particular ecological questions. My PhD research has been aimed at designing probabilistic and statistical methods based on exchangeable random graph models to analyze ecological networks.
 
