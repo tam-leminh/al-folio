@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /cv/
 title: cv
 description: 
@@ -14,7 +14,7 @@ nav: true
 
 #### Teaching
 
-- 2020-2023 : Mathematics, IUT Sceaux, Université Paris-Saclay
+- 2020-2023 : Mathematics, IUT Sceaux, Université Paris-Saclay, France
 
 #### Education
 

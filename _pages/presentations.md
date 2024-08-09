@@ -30,7 +30,7 @@ nav: true
 - 53èmes Journées de Statistique de la Société Française de Statistique (JdS 2022), Lyon, France, June 2022
 - Séminaire du MIA Paris-Saclay, Palaiseau, France, June 2022
 - Journées du GdR Ecologie Statistique, Montpellier, France, April 2022
-- Séminaire de statistiques au sommet de Rochebrune, Megève, March 2022
+- Séminaire de statistiques au sommet de Rochebrune, Megève, France, March 2022
 
 #### 2021
 

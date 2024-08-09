@@ -6,7 +6,7 @@ description: <a href="https://team.inria.fr/statify/">Statify team</a>, Inria, L
 
 profile:
   align: right
-  image: prof_pic.png
+  image: lauvitel_short.jpg
   address: >
     <p>Inria Grenoble Rhône-Alpes</p>
     <p>655 Avenue de l’Europe</p>
@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher at Inria Grenoble Rhône-Alpes, working with [Julyan Arbel](https://www.julyanarbel.com/) and [Florence Forbes](https://mistis.inrialpes.fr/~forbes/). In November 2023, I have defended my PhD in applied mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://scj-robin.github.io/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home).
+I am currently a postdoctoral researcher at Inria Grenoble Rhône-Alpes, working with [Julyan Arbel](https://www.julyanarbel.com/) and [Florence Forbes](https://mistis.inrialpes.fr/~forbes/). In November 2023, I have defended my PhD in applied mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://scj-robin.github.io/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home). 
 
 My scientific interests lie in statistics and applied probability for life science, in particular ecological questions. My PhD research has been aimed at designing novel statistical tools to analyze ecological networks.
 
@@ -31,4 +31,4 @@ My scientific interests lie in statistics and applied probability for life scien
 - **Jan 1, 2024.** I am starting a postdoc position in the Inria Statify team in Grenoble.
 - **Nov 24, 2023.** Invited talk at the Mathematical biology seminar of Université Sorbonne Paris-Nord.
 - **Nov 16, 2023.** Invited talk at the Statistics seminar of Université d'Évry Val d'Essonne.
-- **Nov 13, 2023.** I have succesfully defended my PhD in Université Paris-Saclay.
+- **Nov 13, 2023.** I have succesfully defended my PhD at Université Paris-Saclay.
