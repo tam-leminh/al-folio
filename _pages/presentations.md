@@ -10,6 +10,7 @@ nav: true
 
 #### 2024
 
+- Séminaire Statistique/Génome du LaMME, Évry, France, December 2024
 - Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany, August 2024 [slides]({{ site.url }}/assets/pdf/slides_Bernoulli_24_08_16.pdf)
 - *(poster)* 2024 ISBA World Meeting, Venice, Italy, July 2024
 - *(poster)* 8th Bayesian Young Statistician Meetings (BAYSM 2024), Venice, Italy, June 2024
