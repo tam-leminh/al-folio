@@ -23,11 +23,14 @@ My scientific interests lie in statistics, particularly in addressing questions 
 
 ### News
 
+- **Jan 8, 2025.** New preprint on arXiv: [Natural variational annealing for multimodal optimization](https://arxiv.org/abs/2501.04667).
+- **Dec 5, 2024.** Invited talk at the Statistics seminar of Université d'Évry Val d'Essonne.
 - **Aug 12-16, 2024.** Contributed talk at Bernoulli-IMS World Congress in Bochum, Germany.
 - **Jun 29-Jul 06, 2024.** Poster presentations at BAYSM and ISBA World Meeting in Venice, Italy.
 - **Jun 12-28, 2024.** Poster presentation at the 2nd Bayes-Duality Workshop in Tokyo, Japan.
 - **Feb 8, 2024.** Invited talk at the DATA seminar of Université Grenoble-Alpes.
 - **Feb 6, 2024.** Invited talk at the Statistics and optimization seminar of Université Toulouse III.
+- **Jan 15, 2024.** New preprint on arXiv: [Characterization of the asymptotic behavior of U-statistics on row-column exchangeable matrices](https://arxiv.org/abs/2401.07876).
 - **Jan 1, 2024.** I am starting a postdoc position in the Inria Statify team in Grenoble.
 - **Nov 24, 2023.** Invited talk at the Mathematical biology seminar of Université Sorbonne Paris-Nord.
 - **Nov 16, 2023.** Invited talk at the Statistics seminar of Université d'Évry Val d'Essonne.
