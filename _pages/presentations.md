@@ -12,9 +12,9 @@ nav: true
 
 - Statistics seminar at LaMME (Université d'Évry), Évry, France, December 2024 [abs]({{ site.url }}/assets/pdf/abs_Evry.pdf)
 - Bernoulli-IMS 11th World Congress in Probability and Statistics, Bochum, Germany, August 2024 [abs]({{ site.url }}/assets/pdf/abs_Bernoulli_24_08_16.pdf) [slides]({{ site.url }}/assets/pdf/slides_Bernoulli_24_08_16.pdf)
-- *(poster)* 2024 ISBA World Meeting, Venice, Italy, July 2024
-- *(poster)* 8th Bayesian Young Statistician Meetings (BAYSM 2024), Venice, Italy, June 2024
-- *(poster)* 2nd Bayes-Duality Workshop, Tokyo, Japan, June 2024
+- *(poster)* 2024 ISBA World Meeting, Venice, Italy, July 2024 [poster]({{ site.url }}/assets/pdf/poster_Bayes_duality.pdf)
+- *(poster)* 8th Bayesian Young Statistician Meetings (BAYSM 2024), Venice, Italy, June 2024 [poster]({{ site.url }}/assets/pdf/poster_Bayes_duality.pdf)
+- *(poster)* 2nd Bayes-Duality Workshop, Tokyo, Japan, June 2024 [poster]({{ site.url }}/assets/pdf/poster_Bayes_duality.pdf)
 - Statistics seminar at LJK (Université Grenoble Alpes), Grenoble, France, February 2024 [abs]({{ site.url }}/assets/pdf/abs_Laga.pdf)
 - Statistics seminar at IMT (Université Toulouse III), Toulouse, France, February 2024 [abs]({{ site.url }}/assets/pdf/abs_Laga.pdf)
 
