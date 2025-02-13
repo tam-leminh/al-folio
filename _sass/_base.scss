@@ -6,6 +6,12 @@
 
 p, h1, h2, h3, h4, h5, h6, em, div, span, strong {
   color: var(--global-text-color);
+  font-family: "Figtree";
+  font-weight: 450; 
+}
+
+strong {
+  font-weight: 700; 
 }
 
 a, table.table a {
@@ -61,6 +67,8 @@ blockquote {
     p {
       display: inline-block;
       margin: 0;
+	  font-size: 0.9rem;
+	  font-family: monospace; 
     }
   }
 }
