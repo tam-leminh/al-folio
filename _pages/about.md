@@ -22,7 +22,7 @@ I am currently a postdoctoral researcher at Inria Grenoble Rhône-Alpes, working
 My scientific interests lie in model-based statistical methods, addressing questions in life sciences. I am particularly interested in nonparametric probabilistic models with latent variables. My PhD research focused on designing novel statistical tools for analyzing ecological networks.
 
 In November 2023, I have defended my PhD in applied mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://scj-robin.github.io/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home). 
-Before that, I received a Master in Applied Mathematics from Institut Polytechnique de Paris, after completing the joint [Mathematics for Life Sciences](https://sites.google.com/view/m2-msv/accueil?authuser=0) program with Université Paris-Saclay.
+Before that, I received a Master in applied mathematics from Institut Polytechnique de Paris, after completing the joint [Mathematics for Life Sciences](https://sites.google.com/view/m2-msv/accueil?authuser=0) program with Université Paris-Saclay.
 In a past life, I was a software engineer.
 
 ### News
