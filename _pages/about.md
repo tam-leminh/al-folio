@@ -8,22 +8,22 @@ profile:
   align: right
   image: lauvitel_short.jpg
   address: >
-    <p>Inria Grenoble Rhône-Alpes</p>
-    <p>655 Avenue de l’Europe</p>
-    <p>38330 Montbonnot Saint-Martin</p>
+    <p>Inria Grenoble Rhône-Alpes,</p>
+    <p>655 Avenue de l’Europe,</p>
+    <p>38330 Montbonnot Saint-Martin, France</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a postdoctoral researcher at Inria Grenoble Rhône-Alpes, working with [Julyan Arbel](https://www.julyanarbel.com/) and [Florence Forbes](https://mistis.inrialpes.fr/~forbes/). 
+I am currently a postdoctoral researcher in statistics at Inria Grenoble Rhône-Alpes, working with [Julyan Arbel](https://www.julyanarbel.com/) and [Florence Forbes](https://mistis.inrialpes.fr/~forbes/). 
 
 My scientific interests lie in model-based statistical methods, addressing questions in life sciences. I am particularly interested in nonparametric probabilistic models with latent variables. My PhD research focused on designing novel statistical tools for analyzing ecological networks.
 
-In November 2023, I have defended my PhD in applied mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://scj-robin.github.io/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home). 
-Before that, I received a Master in applied mathematics from Institut Polytechnique de Paris, after completing the joint [Mathematics for Life Sciences](https://sites.google.com/view/m2-msv/accueil?authuser=0) program with Université Paris-Saclay.
-In a past life, I was a software engineer.
+In November 2023, I have defended my PhD in Applied Mathematics at Université Paris-Saclay under the supervision of [Stéphane Robin](https://scj-robin.github.io/), [Sophie Donnet](https://sophiedonnet.github.io) and [François Massol](https://sites.google.com/a/polytechnique.org/francoismassol/home). 
+Before that, I received a Master in Applied Mathematics from Institut Polytechnique de Paris, after completing the joint [Mathematics for Life Sciences](https://sites.google.com/view/m2-msv/accueil?authuser=0) program with Université Paris-Saclay.
+In a past life, I studied aeronautics and aviation engineering and worked as a software engineer.
 
 ### News
 

@@ -21,4 +21,4 @@ nav: false
 - **Apr 4--5, 2022.** Contributed talk at Journées du GdR Ecologie Statistique 2022 in Montpellier.
 - **Mar 20--25, 2022.** Invited talk at Rencontres au sommet de Rochebrune 2022 in Megève.
 - **Jun 13--18, 2021.** I am at the 2021 MMB (Mathematical modeling and biodiversity) research school in Aussois.
-- **Mar 23, 2021.** New preprint on arXiv: [Weak convergence of U-statistics on a row-column exchangeable matrix](https://arxiv.org/abs/2103.12597).
+- **Mar 23, 2021.** New preprint on arXiv: [Weak convergence of U-statistics on a row-column exchangeable matrix](/projects/old).
