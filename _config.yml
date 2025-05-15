@@ -64,7 +64,12 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 
-contact_note: 
+contact_note: >
+  <a href="https://maps.app.goo.gl/7Fzt78LStEvfssPPA" target="_blank">🍜</a> 
+  <a href="https://maps.app.goo.gl/idwfN6nofabqp29PA" target="_blank">🏞️</a>
+  <a href="https://maps.app.goo.gl/3Etg48tjYmYWgKj37" target="_blank">🍕</a>
+  <a href="https://geoffroyo.github.io" target="_blank">👺</a>
+  <a href="https://www.plonkit.net" target="_blank">🌍</a>
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
