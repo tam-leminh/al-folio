@@ -8,6 +8,10 @@ nav: false
 
 # Old news
 
+- **Feb 8, 2024.** Invited talk at the DATA seminar of Université Grenoble-Alpes.
+- **Feb 6, 2024.** Invited talk at the Statistics and optimization seminar of Université Toulouse III.
+- **Jan 15, 2024.** New preprint on arXiv: [Characterization of the asymptotic behavior of U-statistics on row-column exchangeable matrices](https://arxiv.org/abs/2401.07876).
+- **Jan 1, 2024.** I started a postdoc position in the Inria Statify team in Grenoble.
 - **Dec 4, 2023.** My PhD thesis is available online: [U-statistics of row-column exchangeable matrices : application to ecological network analysis](https://theses.hal.science/tel-04321993).
 - **Nov 27-29, 2023.** I am at Journées Math Bio Santé 2023 in Marne-la-Vallée.
 - **Nov 24, 2023.** Invited talk at the Mathematical biology seminar of Université Sorbonne Paris-Nord.
