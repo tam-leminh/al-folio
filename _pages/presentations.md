@@ -8,6 +8,9 @@ nav: true
 
 ### Talks (and posters)
 
+#### 2025
+- *(poster)* 14th International Conference on Bayesian Nonparametrics, Los Angeles, United States, June 2025 [[poster]]({{ site.url }}/assets/pdf/poster_bnp.pdf)
+
 #### 2024
 
 - Statistics seminar at LaMME (Université d'Évry), Évry, France, December 2024 [[abs]]({{ site.url }}/assets/pdf/abs_Evry.pdf)
