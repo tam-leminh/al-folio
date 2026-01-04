@@ -8,7 +8,8 @@ nav: true
 
 #### Experience
 
-- 2024-: Postdoctoral researcher, Inria Grenoble, France
+- 2026-: Postdoctoral researcher, Griffith University, Brisbane, Australia
+- 2024-2025: Postdoctoral researcher, Inria Grenoble, France
 - 2020-2023: Doctoral researcher, Université Paris-Saclay, France
 - 2017-2019: Software Engineer, Thales Alenia Space, Ditzingen, Germany
 
