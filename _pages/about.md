@@ -8,7 +8,7 @@ profile:
   align: right
   image: lauvitel_short.jpg
   address: >
-    <p>📍Griffith University</p>
+    <p>📍 Griffith University</p>
     <p>170 Kessels Rd</p>
     <p>Nathan, QLD, Australia</p>
     <br> 
@@ -37,7 +37,8 @@ In a past life, I studied aeronautics and aviation engineering and worked as a s
 
 ### News
 
-- **Jan 2026.** I have joined Griffith University as a Postdoctoral Research Fellow.
+- **Jan 14, 2026.** My paper [Characterization of the asymptotic behavior of U-statistics on row-column exchangeable matrices](https://arxiv.org/abs/2401.07876) has been accepted in Information and Inference.
+- **Jan 7, 2026.** I have moved to Brisbane, Australia to start a position as a Research Fellow at Griffith University. Wish me good luck.
 - **Sep 15--Nov 14, 2025.** I am visiting the [Predictive Community Ecology](https://www.jyu.fi/en/research-groups/predictive-community-ecology-group) group at the University of Jyväskylä, Finland.
 - **Jun 23--27, 2025.** Poster presentation at the International Conference on Bayesian Nonparametrics in Los Angeles, United States.
 - **Jun 2, 2025.** Our paper [Hoeffding-type decomposition for U-statistics on bipartite networks](https://arxiv.org/abs/2308.14518) has been accepted in the Electronic Journal of Statistics.
