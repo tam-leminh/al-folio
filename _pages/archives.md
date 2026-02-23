@@ -8,6 +8,7 @@ nav: false
 
 # Old news
 
+- **Jan 8, 2025.** New preprint on arXiv: [Natural variational annealing for multimodal optimization](https://arxiv.org/abs/2501.04667).
 - **Dec 5, 2024.** Invited talk at the Statistics seminar of Université d'Évry Val d'Essonne.
 - **Aug 12--16, 2024.** Contributed talk at Bernoulli-IMS World Congress in Bochum, Germany.
 - **Jun 29--Jul 06, 2024.** Poster presentations at BAYSM and ISBA World Meeting in Venice, Italy.
