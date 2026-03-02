@@ -37,6 +37,7 @@ In a past life, I studied aeronautics and aviation engineering and worked as a s
 
 ### News
 
+- **Mar 2, 2026.** Our paper [Natural variational annealing for multimodal optimization](https://arxiv.org/abs/2501.04667) has been accepted in Information and Inference.
 - **Feb 20, 2026.** New preprint on arXiv: [A variational framework for modal estimation](https://arxiv.org/abs/2602.17956).
 - **Jan 14, 2026.** My paper [Characterization of the asymptotic behavior of U-statistics on row-column exchangeable matrices](https://arxiv.org/abs/2401.07876) has been accepted in Information and Inference.
 - **Jan 7, 2026.** I have moved to Brisbane, Australia to start a position as a Research Fellow at Griffith University. Wish me good luck.
