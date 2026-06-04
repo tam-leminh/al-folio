@@ -8,6 +8,7 @@ nav: false
 
 # Old news
 
+- **Jun 2, 2025.** Our paper [Hoeffding-type decomposition for U-statistics on bipartite networks](https://arxiv.org/abs/2308.14518) has been accepted in the Electronic Journal of Statistics.
 - **Jan 8, 2025.** New preprint on arXiv: [Natural variational annealing for multimodal optimization](https://arxiv.org/abs/2501.04667).
 - **Dec 5, 2024.** Invited talk at the Statistics seminar of Université d'Évry Val d'Essonne.
 - **Aug 12--16, 2024.** Contributed talk at Bernoulli-IMS World Congress in Bochum, Germany.

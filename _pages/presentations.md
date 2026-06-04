@@ -8,7 +8,14 @@ nav: true
 
 ### Talks (and posters)
 
+#### 2026
+- *(poster)* 2026 ISBA World Meeting, Nagoya, Japan, July 2026.
+- 57èmes Journées de Statistique de la Société Française de Statistique (JdS 2026), Clermont-Ferrand, France, June 2026.
+- Statistics seminar at MISTEA (Institut Agro), Montpellier, France, May 2026.
+- Statistics seminar at GBU (Griffith University), Brisbane, Australia, March 2026.
+
 #### 2025
+- Ecology seminar in the PredCom group (University of Jyväskylä), Jyväskylä, Finland, November 2025.
 - *(poster)* 14th International Conference on Bayesian Nonparametrics, Los Angeles, United States, June 2025 [[poster]]({{ site.url }}/assets/pdf/poster_bnp.pdf)
 
 #### 2024
