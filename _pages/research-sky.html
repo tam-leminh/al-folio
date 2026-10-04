@@ -1,0 +1,29 @@
+---
+layout: page
+title: research sky
+permalink: /research-sky/
+description: "Papers and the paths between them."
+nav: true
+---
+<link rel="stylesheet" href="{{ '/assets/css/research-sky.css' | relative_url }}">
+<p class="sky-intro">Each star is a paper. Hover for a reference, select to explore its connections. On small screens, swipe across the sky.</p>
+<section class="research-sky" aria-label="Interactive research map">
+  <div class="sky-toolbar" hidden>
+    <label>Explore <select id="sky-region"><option value="">All regions</option>{% for region in site.data.research_sky.regions %}<option value="{{ region.id }}">{{ region.name }}</option>{% endfor %}</select></label>
+    <button type="button" id="sky-reset">Reset</button>
+  </div>
+  <div class="sky-stage" hidden>
+    <svg id="research-sky-map" viewBox="0 0 900 520" role="group" aria-label="Research regions. Select a star to read about a publication."></svg>
+  </div>
+  <div id="sky-detail" class="sky-detail" aria-live="polite" aria-atomic="true" hidden></div>
+  <p class="sky-legend"><span>✦ Published</span> <span>○ Preprint</span></p>
+</section>
+<script id="sky-data" type="application/json">{{ site.data.research_sky | jsonify }}</script>
+<details class="sky-catalogue" open>
+  <summary>Browse all works as a list</summary>
+  <h2>Publications</h2>
+  <div data-sky-status="Published">{% bibliography -f published --template sky-entry %}</div>
+  <h2>Preprints</h2>
+  <div data-sky-status="Preprint">{% bibliography -f preprints --template sky-entry %}</div>
+</details>
+<script defer src="{{ '/assets/js/research-sky.js' | relative_url }}"></script>
