@@ -5,7 +5,8 @@ permalink: /research-sky/
 description: "Papers and the paths between them."
 nav: true
 ---
-<link rel="stylesheet" href="{{ '/assets/css/research-sky.css' | relative_url }}">
+{% assign sky_asset_version = site.time | date: '%s' %}
+<link rel="stylesheet" href="{{ '/assets/css/research-sky.css' | relative_url }}?v={{ sky_asset_version }}">
 <p class="sky-intro">Each star is a paper. Hover for a reference, select to explore its connections. On small screens, swipe across the sky.</p>
 <section class="research-sky" aria-label="Interactive research map">
   <div class="sky-toolbar" hidden>
@@ -26,4 +27,4 @@ nav: true
   <h2>Preprints</h2>
   <div data-sky-status="Preprint">{% bibliography -f preprints --template sky-entry %}</div>
 </details>
-<script defer src="{{ '/assets/js/research-sky.js' | relative_url }}"></script>
+<script defer src="{{ '/assets/js/research-sky.js' | relative_url }}?v={{ sky_asset_version }}"></script>
